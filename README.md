@@ -1,7 +1,7 @@
 # OOP-2025
 
-<img src="https://img.shields.io/github/commit-activity/m/nntu-cs/OOP-2024?color=lime&style=for-the-badge">
-<img src="https://img.shields.io/github/last-commit/nntu-cs/OOP-2024?color=darkgreen&style=for-the-badge">
+<img src="https://img.shields.io/github/commit-activity/m/nntu-cs/OOP-2025?color=lime&style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/nntu-cs/OOP-2025?color=darkgreen&style=for-the-badge">
 
 |№ |  ФИО | ЛР-1 Изучение основных видов приложений .NET | ЛР-2 Создание и обработка событий | ЛР-3 Принципы декомпозиции предметной области | ЛР-4 Базовые принципы проектирования ОО-программ | ЛР-5 Принципы сохранения объектной модели в БД | Тема КР | Утверждена | Имя файла | 1 версия | Текущая версия | Статус | Оценка | 
 | -- | ------ |  ----- |  ----- |  ----- |  ----- |  ----- |  ----- |  ----- |  ----- |  ----- |  ----- |  ----- |  ----- | 
